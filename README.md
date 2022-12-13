@@ -1,0 +1,1 @@
+Make sure to replace <insert your Discord bot token here> and <insert your Pushbullet API key here> with your own Discord bot token and Pushbullet API key, respectively. You can find more information on how to obtain these credentials in the documentation for the Discord API and the Pushbullet API.
